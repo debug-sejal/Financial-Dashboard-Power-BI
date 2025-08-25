@@ -30,4 +30,4 @@ An interactive Power BI dashboard designed to track financial KPIs such as reven
 * Helped stakeholders align strategies with financial goals.
   
 ## 8. Screenshot
-This is How Dashboard looks like: https://github.com/debug-sejal/Financial-Dashboard-Power-BI/commit/ae57e9149adcb680889aa21591155e4e7b56d174
+This is How Dashboard looks like: Financial Dashboard.png
